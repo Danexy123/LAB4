@@ -1,0 +1,3 @@
+﻿  Lutsa_PRT-21_LAB4.cpp
+C:\Users\168708\OneDrive\Рабочий стол\Lutsa_LAB4\Lutsa_PRT-21_LAB4\Lutsa_PRT-21_LAB4.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lutsa_PRT-21_LAB4.vcxproj -> C:\Users\168708\OneDrive\Рабочий стол\Lutsa_LAB4\Lutsa_PRT-21_LAB4\x64\Debug\Lutsa_PRT-21_LAB4.exe
